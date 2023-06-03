@@ -32,3 +32,7 @@ Dataviz - A sorting algorithm visualizer
 * [React JS](https://reactjs.org/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+<!-- CONTACT -->
+## Contact 
+Shrishti Akhouri
